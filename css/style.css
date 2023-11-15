@@ -1,0 +1,28 @@
+body {
+  background-color: #eee1ba;
+  text-align: center;
+  color: #9c634f;
+}
+
+.nav-bar {
+  text-align: center;
+  display: block;
+  margin-top: 50px;
+}
+.nav-menu {
+  margin: 0 10px;
+  color: #c47960;
+  text-decoration: none;
+}
+
+.nav-menu:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 30%;
+}
